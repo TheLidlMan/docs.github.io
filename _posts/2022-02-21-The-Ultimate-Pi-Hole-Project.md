@@ -3,6 +3,7 @@ title: The Ultimate Pi-Hole Project
 date: 2021-09-15 12:00:00 +0100 
 categories: [The Ultimate Pi-hole Project, 1. Setup]
 tags: [pi, selfhosting, pihole, ad, ad, blocking]     # TAG names should always be lowercase
+comments: true
 ---
 
 Pi-hole is a great project for beginners or advanced users, it allows Network-level blocking allows you to **block ads in non-traditional places** such as mobile apps and smart TVs, regardless of hardware or OS. Since **advertisements are blocked _before_ they are downloaded**, network performance is improved and will feel faster. Our Web interface offers control of your Pi-hole and a central place to view statistics. We also include an API for extending these stats. Instead of browser plugins or other software on each computer, **install Pi-hole in one place** and your entire network is protected.

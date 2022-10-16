@@ -2,8 +2,7 @@
 title: Apple MacBook A1181 Black Project
 date: 2021-09-15 12:00:00 +0100 
 categories: [Refurbishment, Apple]
-tags: [refurbish, refurbishment, fixing, mac, macbook, macos]  
-comments: true   # TAG names should always be lowercase
+tags: [refurbish, refurbishment, fixing, mac, macbook, macos]    # TAG names should always be lowercase
 ---
 
 I bought a _Rare_ Macbook A1181 Black Laptop.

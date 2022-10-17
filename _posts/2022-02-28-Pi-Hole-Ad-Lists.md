@@ -12,10 +12,13 @@ Using the following method I will help you add all the ad and tracker lists you 
 Step 1:[](#step-1)
 ------------------
 
+![](/assets/image-22.png)
  _Open the dropdown menu ‘Group Management’ in the sidebar_
 
+![](/assets/image-23.png)
  _Now select ‘Adlists’ from the dropdown menu_
 
+![](/assets/image-24-1024x594.png)
  _Now you should see this screen_
 
 Step 2:[](#step-2)

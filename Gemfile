@@ -2,10 +2,10 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0"
+gem "jekyll-theme-chirpy", "~> 5.6", ">= 5.6.0"
 
 group :test do
-  gem "html-proofer", "~> 3.19.4"
+  gem "html-proofer", "~> 4.0.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
